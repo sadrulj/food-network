@@ -9,8 +9,9 @@ h1 {
 .color-text {
   color: rgba(210, 108, 20, 0.714);
 }
-section {
+.header-box {
   margin-top: 100px;
+  margin-bottom: 100px;
 }
 .half-width {
   width: 40%;
@@ -23,6 +24,7 @@ section {
 .anchor-btn {
   text-decoration: none;
   background: linear-gradient(to right, #ee0979, #ff6a00);
+  box-shadow: 10px 10px 30px #ee0979;
   padding: 1em;
   border-radius: 5px;
   color: blanchedalmond;
